@@ -38,7 +38,7 @@ Proyek ini bertujuan untuk melakukan implementasi terhadap algoritma pembelajara
 
 3. **Run Main Program**
 
-    Buka file notebook notebooks/Tubes2_Kel_10_Bersama_DIA.ipynb di Jupyter Notebook dan langsung run.
+    Buka file notebook src/Tubes2_Kel_10_Bersama_DIA.ipynb di Jupyter Notebook dan langsung run.
 
 ### **Kelompok 10: Bersama DIA**
 
