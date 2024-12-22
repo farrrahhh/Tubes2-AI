@@ -41,21 +41,12 @@ Proyek ini bertujuan untuk melakukan implementasi terhadap algoritma pembelajara
 
 ### **Kelompok 10: Bersama DIA**
 
-
-| NIM       | Nama                     | Job Desc                                                                                  |
+| NIM       | Nama                     | Tugas                                                                                     |
 |-----------|--------------------------|-------------------------------------------------------------------------------------------|
-| 18222032  | Clement Nathanael Lim    | - Membuat algoritma KNN from scratch.                                                     |  
-|           |                          | - Menguji KNN dengan scikit-learn.                                                        |
-|           |                          | - Mengerjakan laporan.                                                                    |
-| 18222048  | Mattheuw Suciadi Wijaya  | - Membuat implementasi feature engineering.                                               |  
-|           |                          | - Membuat implementasi algoritma Gaussian Naive-Bayes from scratch.                       |
-|           |                          | - Mengerjakan laporan.                                                                    |
-| 18222064  | Hartanto Luwis           | - Membuat data preprocess.                                                                |
-|           |                          | - Men-debug untuk meningkatkan akurasi.                                                   |
-|           |                          | - Mengerjakan laporan.                                                                    |
-| 18222096  | Farah Aulia              | - Membuat pipeline data.                                                                  |
-|           |                          | - Menguji KNN dengan scikit-learn.                                                        |
-|           |                          | - Membuat error analysis dan improvements.                                                |
-|           |                          | - Mengerjakan laporan.                                                                    |
+| 18222032  | Clement Nathanael Lim    | Membuat algoritma KNN from scratch, menguji KNN dengan scikit-learn, mengerjakan laporan. |
+| 18222048  | Mattheuw Suciadi Wijaya  | Membuat implementasi feature engineering, membuat implementasi algoritma Gaussian Naive-Bayes from scratch, mengerjakan laporan. |
+| 18222064  | Hartanto Luwis           | Membuat data preprocess, men-debug untuk meningkatkan akurasi, mengerjakan laporan.       |
+| 18222096  | Farah Aulia              | Membuat pipeline data, menguji KNN dengan scikit-learn, membuat error analysis dan improvements, mengerjakan laporan. |
+
 
 
