@@ -33,9 +33,10 @@ Proyek ini bertujuan untuk melakukan implementasi terhadap algoritma pembelajara
 1. **Clone Repository**
 
     git clone https://github.com/farrrahhh/Tubes2-AI.git
+
     cd Tubes2-AI/src
 
-2. **Run Main Program**
+3. **Run Main Program**
 
     Buka file notebook notebooks/Tubes2_Kel_10_Bersama_DIA.ipynb di Jupyter Notebook dan langsung run.
 
