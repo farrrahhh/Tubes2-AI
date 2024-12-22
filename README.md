@@ -39,7 +39,7 @@ Proyek ini bertujuan untuk melakukan implementasi terhadap algoritma pembelajara
 
     Buka file notebook notebooks/Tubes2_Kel_10_Bersama_DIA.ipynb di Jupyter Notebook dan langsung run.
 
-### **Kelompok 20: Bersama DIA**
+### **Kelompok 10: Bersama DIA**
 
 
 | NIM       | Nama                     | Job Desc                                                                                  |
