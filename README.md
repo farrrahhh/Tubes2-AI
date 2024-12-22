@@ -1,4 +1,4 @@
-<h1 align="center">Tugas Besar 2 IF3070 Dasar Inteligensi Artifisial </h1>
+<h1 align="center">👩🏻‍💻 Tugas Besar 2 IF3070 Dasar Inteligensi Artifisial 👨🏻‍💻 </h1>
 
 <h1 align="center">Implementasi Algoritma Pembelajaran Mesin</h1>
 
